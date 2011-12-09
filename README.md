@@ -1,0 +1,1 @@
+Forked from jexp/birdies, this Ruby based app uses a Twitter public access to store tweets that match a specific criteria into a Neo4j (graph) database, allowing REST based access to the data via the standard Neo4j REST endpoint.
